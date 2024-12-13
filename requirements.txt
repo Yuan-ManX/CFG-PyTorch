@@ -1,0 +1,7 @@
+beartype
+einops>=0.8
+environs
+ftfy
+open-clip-torch>=2.8.0
+torch>=2.0
+transformers[torch]
