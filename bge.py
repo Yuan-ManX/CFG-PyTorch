@@ -3,7 +3,7 @@ from beartype import beartype
 
 import torch
 import transformers 
-from transformers import AutoTokenizer, AutoModel,AutoConfig
+from transformers import AutoTokenizer, AutoModel, AutoConfig
 transformers.logging.set_verbosity_error()
 
  
